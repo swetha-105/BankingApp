@@ -68,6 +68,18 @@ Set 4-Digit PIN: 1234
 Initial Deposit: 1000
 ✅ Account created successfully!
 
+## 📁 Project Structure
+BankingApp/
+├── src/
+│ ├── DBConnection.java
+│ ├── BankService.java
+│ └── BankApp.java
+│
+├── sql/
+│ └── banking_schema.sql
+│
+├── README.md
+
 👩‍💻 Author
 
 Swetha Kotala
