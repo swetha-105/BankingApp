@@ -1,7 +1,7 @@
 class DBConnection{
 	private static final String url="jdbc:mysql://localhost:3306/bankdb";
 	private static final String un="root";
-	private static final String pwd="root";
+	private static final String pwd="password";
 	public static Connection getConnection() {
 		Connection con=null;
 	try {
